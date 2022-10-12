@@ -15,3 +15,4 @@ public:
         return num;
     }
 };
+// time complexity- O(n)
